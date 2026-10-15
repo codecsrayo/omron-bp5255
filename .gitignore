@@ -1,0 +1,15 @@
+# Gradle / Android Studio
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.kotlin/
+captures/
+
+# Material de investigación local (contiene APKs de terceros y datos personales)
+apk_original/
+captura/
+logcat_*.txt
+*.apk
+*.jks
